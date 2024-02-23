@@ -1,1 +1,1 @@
-# stoicync
+# oncync (on the fly)
